@@ -8,4 +8,4 @@
 `npm install`
 #### 2) Para ejecutar el proyecto, en la terminal:
 `npm run dev`
-### 3) Vamos a Postman y realizamos la acción deseada siguiendo la lógica de las rutas y controlladores
+#### 3) Vamos a Postman y realizamos la acción deseada siguiendo la lógica de las rutas y controlladores
